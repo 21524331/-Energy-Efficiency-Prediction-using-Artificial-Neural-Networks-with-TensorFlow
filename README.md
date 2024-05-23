@@ -22,9 +22,7 @@ A sequential model is initialized using TensorFlow's Keras API.
 
 Adding Layers
 Input and First Hidden Layer: A dense layer with 6 units and ReLU activation function is added.
-
 Second Hidden Layer: Another dense layer with 6 units and ReLU activation function is added.
-
 Output Layer: A dense layer with 1 unit (since it is a regression problem) is added.
 
 4. Training the ANN
