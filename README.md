@@ -24,6 +24,7 @@ Adding Layers
 Input and First Hidden Layer: A dense layer with 6 units and ReLU activation function is added.
 Second Hidden Layer: Another dense layer with 6 units and ReLU activation function is added.
 Output Layer: A dense layer with 1 unit (since it is a regression problem) is added.
+
 4. Training the ANN
 Compiling the Model
 The model is compiled with the Adam optimizer and mean squared error as the loss function.
